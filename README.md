@@ -25,3 +25,11 @@ On this repository you can find:
 - The manual we have created
 - some images of our Robotic Arm
 - The code written in C using Arduino IDE
+
+
+![Image-1](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-1.jpg)
+![Image-2](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-2.jpg)
+![Image-3](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-3.jpg)
+![Image-4](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-4.jpg)
+![Image-5](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-5.jpg)
+![Image-6](https://github.com/mariosffx/project-robotic-arm/blob/master/images/robotic-arm-6.jpg)
