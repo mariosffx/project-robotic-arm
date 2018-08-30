@@ -1,6 +1,6 @@
 # [Project] [University of Applied Sciences] Robotic Arm
 
-I would like to share my very first big project I finished on May 2019. I was assigned with my co-student: Stamatis Spagadoros to create a Robotic Arm in University of Piraeus of Applied Sciences under the guidance of our teacher Makis Xatzopoulos. It's purpose was to give it 3 dimensions (x, y, z, in cm) and be able to reach those 3 dimensions.
+I would like to share my very first big project I finished on June 2019. I was assigned with my co-student: Stamatis Spagadoros to create a Robotic Arm in University of Piraeus of Applied Sciences under the guidance of our teacher Makis Xatzopoulos. It's purpose was to give it 3 dimensions (x, y, z, in cm) and be able to reach those 3 dimensions.
 
 
 
